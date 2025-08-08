@@ -41,7 +41,7 @@ The dashboard includes:
 
  Screenshots available in `Image` folder
 
-🔗 [Link to Tableau Public Dashboard] (https://public.tableau.com/views/HotelBookingDashboard_17532586984380/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 Link to Tableau Public Dashboard : https://public.tableau.com/views/HotelBookingDashboard_17532586984380/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -73,4 +73,5 @@ Hotel Booking Demand/
 ## 📬 Contact
 **Muhamad Rabbani**  
 Email : muhamadrabbani98@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/muhamad-rabbani-razali-68635623b) • [GitHub](https://github.com/rabbani230)
+LinkedIn : www.linkedin.com/in/rabbanirazali
+GitHub : https://github.com/rabbani230
