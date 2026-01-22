@@ -74,7 +74,7 @@ Booking demand demonstrates strong seasonality, with clear peak and off-peak per
 ### Tools & Technologies
 - Microsoft SQL Server — analytical queries, KPI logic, data modeling
 
-The SQL script can be downloaded [here](Files/SQL-Queries).
+The SQL script can be downloaded [here](Files/SQL_Queries).
 - Excel — light preprocessing and validation
 
 The raw datasets can be downloaded [here](Files/Dataset).
