@@ -25,7 +25,7 @@ This project analyzes hotel booking data to support commercial and operational d
 ***
 ### Dashboard Overview
 
-The dashboard image file can be downloaded [here](Analysis/Image).
+The dashboard image file can be downloaded [here](Files/Image).
 
 1️⃣ Booking Demand Patterns Across the Year
 > Clear seasonal pattern supports dynamic pricing and workforce planning
@@ -74,9 +74,9 @@ Booking demand demonstrates strong seasonality, with clear peak and off-peak per
 ### Tools & Technologies
 - Microsoft SQL Server — analytical queries, KPI logic, data modeling
 
-The SQL script can be downloaded [here](Analysis/SQL_Queries).
+The SQL script can be downloaded [here](Files/SQL_Queries).
 - Excel — light preprocessing and validation
 
-The raw datasets can be downloaded [here](Analysis/Dataset).
+The raw datasets can be downloaded [here](Files/Dataset).
 - Tableau — dashboarding, storytelling, stakeholder-ready visuals
 
